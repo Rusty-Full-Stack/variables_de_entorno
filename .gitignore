@@ -1,0 +1,5 @@
+ejemplo_dotenv/target/
+target/
+Cargo.lock
+main
+.DS_Store
